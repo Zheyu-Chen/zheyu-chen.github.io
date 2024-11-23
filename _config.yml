@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zheyu Chen's Homepage"
-description              : "Hello, I'm Zheyu Chen, a Msc. student at the Hong Kong Polytechnic University. My research interests include recommender system and shilling attack & defence."
+description              : "Hello, I'm Zheyu Chen, a MSc. student at the Hong Kong Polytechnic University. My research interests include recommender system and shilling attack & defence."
 repository               : "ZheyuChen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
