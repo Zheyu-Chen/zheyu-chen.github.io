@@ -37,9 +37,7 @@ Jinfeng Xu, **Zheyu Chen**, Jinze Li, Shuo Yang, Hewei Wang, Edith C. H. Ngai,
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Tj6-6lYAAAAJ&citation_for_view=Tj6-6lYAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- Group activities are important behaviors in human society, providing personalized recommendations for groups is referred to as the group recommendation task.
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Tj6-6lYAAAAJ&citation_for_view=Tj6-6lYAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
+- Group activities are important behaviors in human society, providing personalized recommendations for groups is referred to as the group recommendation task. [**[Code]**](https://github.com/Jinfeng-Xu/AlignGroup) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 </div>
 </div>
