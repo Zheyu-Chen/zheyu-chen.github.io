@@ -29,10 +29,9 @@ My primary research interests lie in data mining, particularly in the field of r
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 24</div><embed src='images/AlignGroup.pdf' type="application/pdf" alt="sym" width="100%"></embed></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 24</div><img src='images/AlignGroup.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [AlignGroup: Learning and Aligning Group Consensus with Member Preferences for Group Recommendation](https://arxiv.org/pdf/2409.02580)
-
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
