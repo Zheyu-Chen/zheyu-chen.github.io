@@ -33,11 +33,11 @@ My primary research interests lie in data mining, particularly in the field of r
 <div class='paper-box-text' markdown="1">
 [AlignGroup: Learning and Aligning Group Consensus with Member Preferences for Group Recommendation](https://arxiv.org/pdf/2409.02580)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Jinfeng Xu, **Zheyu Chen**, Jinze Li, Shuo Yang, Hewei Wang, Edith C. H. Ngai,
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Tj6-6lYAAAAJ&citation_for_view=Tj6-6lYAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Group activities are important behaviors in human society, providing personalized recommendations for groups is referred to as the group recommendation task.. 
 </div>
 </div>
 
