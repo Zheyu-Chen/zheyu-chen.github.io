@@ -29,7 +29,7 @@ My primary research interests lie in data mining, particularly in the field of r
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><iframe src='images/AlignGroup.pdf' type="application/pdf" alt="sym" width="100%"></iframe></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 24</div><iframe src='images/AlignGroup.pdf' type="application/pdf" alt="sym" width="100%"></iframe></div></div>
 <div class='paper-box-text' markdown="1">
 [AlignGroup: Learning and Aligning Group Consensus with Member Preferences for Group Recommendation](https://arxiv.org/pdf/2409.02580)
 
