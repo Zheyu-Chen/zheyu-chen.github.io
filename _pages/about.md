@@ -60,7 +60,53 @@ Jinfeng Xu, **<u>Zheyu Chen</u>**, Zixiao Ma, Jiyi Liu, Edith C. H. Ngai,
 
 
 
+
+
 - [A Review of Gray-scale Image Recoloring Methods With Neural Network Based Model](https://ieeexplore.ieee.org/abstract/document/10552423), Yuyang Wang, Tianli Ren, Zhuoyi Zhang, <u>**Zheyu Chen**</u>, Jinfeng Xu, Zixiao Ma, Pai Zhu, Mingjia Zhang, **ICIVC 22**
+
+
+
+# 📝 Preprint
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/FourierKAN-GCF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[FourierKAN-GCF: Fourier Kolmogorov-Arnold Network -- An Effective and Efficient Feature Transformation for Graph Collaborative Filtering](https://arxiv.org/abs/2406.01034)
+
+
+
+Jinfeng Xu, **Zheyu Chen**, Jinze Li, Shuo Yang, Wei Wang, Xiping Hu, Edith C-H Ngai,
+
+[**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Tj6-6lYAAAAJ&citation_for_view=Tj6-6lYAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- Graph Collaborative Filtering (GCF) has achieved state-of-the-art performance for recommendation tasks. <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/MENTOR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[MENTOR: Multi-level Self-supervised Learning for Multimodal Recommendation](https://arxiv.org/abs/2402.19407)
+
+
+
+Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Hewei Wang, Edith C-H Ngai,
+
+[**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Tj6-6lYAAAAJ&citation_for_view=Tj6-6lYAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- To this end, we propose a Multi-level sElf-supervised learNing for mulTimOdal Recommendation (MENTOR) method to address the label sparsity problem and the modality alignment problem. [**[Code]**](https://github.com/Jinfeng-Xu/MENTOR) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+
+
+
+
+
 
 # 📑 Academic Services
 
