@@ -40,7 +40,7 @@ Jinfeng Xu, **Zheyu Chen**, Jinze Li, Shuo Yang, Hewei Wang, Edith C. H. Ngai,
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCE 24</div><img src='images/AlignGroup.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCE 24</div><img src='images/PTMCF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Improving Consumer Experience With Pre-Purify Temporal-Decay Memory-Based Collaborative Filtering Recommendation for Graduate School Application](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10552423)
 
