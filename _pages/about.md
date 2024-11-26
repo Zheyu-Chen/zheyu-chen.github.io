@@ -27,11 +27,12 @@ My primary research interests lie in data mining, particularly in the field of r
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 24</div><img src='images/AlignGroup.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[AlignGroup: Learning and Aligning Group Consensus with Member Preferences for Group Recommendation](https://arxiv.org/pdf/2409.02580)
+[AlignGroup: Learning and Aligning Group Consensus with Member Preferences for Group Recommendation](https://dl.acm.org/doi/abs/10.1145/3627673.3679697)
 
-Jinfeng Xu, **Zheyu Chen**, Jinze Li, Shuo Yang, Hewei Wang, Edith C. H. Ngai,
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Tj6-6lYAAAAJ&citation_for_view=Tj6-6lYAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+Jinfeng Xu, **<u>Zheyu Chen</u>**, Jinze Li, Shuo Yang, Hewei Wang, Edith C. H. Ngai,
+
+[**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Tj6-6lYAAAAJ&citation_for_view=Tj6-6lYAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - Group activities are important behaviors in human society, providing personalized recommendations for groups is referred to as the group recommendation task. [**[Code]**](https://github.com/Jinfeng-Xu/AlignGroup) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -42,12 +43,12 @@ Jinfeng Xu, **Zheyu Chen**, Jinze Li, Shuo Yang, Hewei Wang, Edith C. H. Ngai,
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCE 24</div><img src='images/PTMCF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Improving Consumer Experience With Pre-Purify Temporal-Decay Memory-Based Collaborative Filtering Recommendation for Graduate School Application](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10552423)
+[Improving Consumer Experience With Pre-Purify Temporal-Decay Memory-Based Collaborative Filtering Recommendation for Graduate School Application](https://ieeexplore.ieee.org/abstract/document/10552423)
 
 
-Jinfeng Xu, **Zheyu Chen**, Zixiao Ma, Jiyi Liu, Edith C. H. Ngai,
+Jinfeng Xu, **<u>Zheyu Chen</u>**, Zixiao Ma, Jiyi Liu, Edith C. H. Ngai,
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Tj6-6lYAAAAJ&citation_for_view=Tj6-6lYAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Tj6-6lYAAAAJ&citation_for_view=Tj6-6lYAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - The Internet is booming with information, and it has become especially difficult for consumers to sift through the information. Recommendation systems can effectively enhance the consumer experience. <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -59,13 +60,11 @@ Jinfeng Xu, **Zheyu Chen**, Zixiao Ma, Jiyi Liu, Edith C. H. Ngai,
 
 
 
-
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [A Review of Gray-scale Image Recoloring Methods With Neural Network Based Model](https://ieeexplore.ieee.org/abstract/document/10552423), Yuyang Wang, Tianli Ren, Zhuoyi Zhang, <u>**Zheyu Chen**</u>, Jinfeng Xu, Zixiao Ma, Pai Zhu, Mingjia Zhang, **ICIVC 22**
 
 # 📑 Academic Services
 
-- 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing \textit{(ICASSP 2025)}
+- 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing *(ICASSP 2025)*
 
 # 🎓 Educations
 - *2023.09 - 2025.03 (Excepted)*, Hong Kong Polytechnic University. **Master of Science** Major in *Electronic and Information Engineering* 
