@@ -22,7 +22,7 @@ Hello, my name is Zheyu Chen. I graduated with a bachelor's degree from Beijing 
 My primary research interests lie in data mining, particularly in the field of recommender systems. Specifically, I focus on cutting-edge topics such as multimodal recommendation, group recommendation, graph learning, and the security and defense mechanisms of recommender systems.
 
 [Link to README-zh.md](README-zh.md)
-[FourierKAN-GCF.pdf](../docs/FourierKAN-GCF.pdf)
+
 [//]: # (I have published more than 5 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=Tj6-6lYAAAAJ'>google scholar citations <strong><span id='total_cit'>20+</span></strong></a>.)
 
 # 📝 Publications 
@@ -34,7 +34,7 @@ My primary research interests lie in data mining, particularly in the field of r
 
 Jinfeng Xu, **<u>Zheyu Chen</u>**, Jinze Li, Shuo Yang, Hewei Wang, Edith C. H. Ngai,
 
-[**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Tj6-6lYAAAAJ&citation_for_view=Tj6-6lYAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](AlignGroup.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - Group activities are important behaviors in human society, providing personalized recommendations for groups is referred to as the group recommendation task. [**[Code]**](https://github.com/Jinfeng-Xu/AlignGroup) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -50,7 +50,7 @@ Jinfeng Xu, **<u>Zheyu Chen</u>**, Jinze Li, Shuo Yang, Hewei Wang, Edith C. H. 
 
 Jinfeng Xu, **<u>Zheyu Chen</u>**, Zixiao Ma, Jiyi Liu, Edith C. H. Ngai,
 
-[**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Tj6-6lYAAAAJ&citation_for_view=Tj6-6lYAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](PTMCF.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - The Internet is booming with information, and it has become especially difficult for consumers to sift through the information. Recommendation systems can effectively enhance the consumer experience. <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -64,7 +64,7 @@ Jinfeng Xu, **<u>Zheyu Chen</u>**, Zixiao Ma, Jiyi Liu, Edith C. H. Ngai,
 
 
 
-- [A Review of Gray-scale Image Recoloring Methods With Neural Network Based Model](https://ieeexplore.ieee.org/abstract/document/10552423), Yuyang Wang, Tianli Ren, Zhuoyi Zhang, <u>**Zheyu Chen**</u>, Jinfeng Xu, Zixiao Ma, Pai Zhu, Mingjia Zhang, **ICIVC 22**
+- [A Review of Gray-scale Image Recoloring Methods With Neural Network Based Model](Recoloring.pdf), Yuyang Wang, Tianli Ren, Zhuoyi Zhang, <u>**Zheyu Chen**</u>, Jinfeng Xu, Zixiao Ma, Pai Zhu, Mingjia Zhang, **ICIVC 22**
 
 
 
@@ -78,7 +78,7 @@ Jinfeng Xu, **<u>Zheyu Chen</u>**, Zixiao Ma, Jiyi Liu, Edith C. H. Ngai,
 
 Jinfeng Xu, **Zheyu Chen**, Jinze Li, Shuo Yang, Wei Wang, Xiping Hu, Edith C-H Ngai,
 
-[**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Tj6-6lYAAAAJ&citation_for_view=Tj6-6lYAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](FourierKAN-GCF.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - Graph Collaborative Filtering (GCF) has achieved state-of-the-art performance for recommendation tasks. <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -97,7 +97,7 @@ Jinfeng Xu, **Zheyu Chen**, Jinze Li, Shuo Yang, Wei Wang, Xiping Hu, Edith C-H 
 
 Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Hewei Wang, Edith C-H Ngai,
 
-[**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Tj6-6lYAAAAJ&citation_for_view=Tj6-6lYAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](MENTOR.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - To this end, we propose a Multi-level sElf-supervised learNing for mulTimOdal Recommendation (MENTOR) method to address the label sparsity problem and the modality alignment problem. [**[Code]**](https://github.com/Jinfeng-Xu/MENTOR) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 

@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, my name is Zheyu Chen. I graduated with a bachelor's degree from Beijing University of Technology (BJUT) and University College Dublin (UCD) joint training program, where I majored in Software Engineering. I earned a First-Class Honours degree from UCD and an Honours Bachelor's degree from BJUT. Currently, I am pursuing my Master’s degree in Electronic and Information Engineering at The Hong Kong Polytechnic University, under the Faculty of Electrical and Electronic Engineering.
+Hello, my name is 陈哲雨. I graduated with a bachelor's degree from Beijing University of Technology (BJUT) and University College Dublin (UCD) joint training program, where I majored in Software Engineering. I earned a First-Class Honours degree from UCD and an Honours Bachelor's degree from BJUT. Currently, I am pursuing my Master’s degree in Electronic and Information Engineering at The Hong Kong Polytechnic University, under the Faculty of Electrical and Electronic Engineering.
 
 My primary research interests lie in data mining, particularly in the field of recommender systems. Specifically, I focus on cutting-edge topics such as multimodal recommendation, group recommendation, graph learning, and the security and defense mechanisms of recommender systems.
 
 [Link to README-zh.md](about_zh.md)
-[FourierKAN-GCF.pdf](../docs/FourierKAN-GCF.pdf)
+[FourierKAN-GCF.pdf](FourierKAN-GCF.pdf)
 [//]: # (I have published more than 5 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=Tj6-6lYAAAAJ'>google scholar citations <strong><span id='total_cit'>20+</span></strong></a>.)
 
 # 📝 Publications 
