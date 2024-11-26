@@ -19,13 +19,9 @@ redirect_from:
 
 Hello, my name is Zheyu Chen. I graduated with a bachelor's degree from Beijing University of Technology (BJUT) and University College Dublin (UCD) joint training program, where I majored in Software Engineering. I earned a First-Class Honours degree from UCD and an Honours Bachelor's degree from BJUT. Currently, I am pursuing my Master’s degree in Electronic and Information Engineering at The Hong Kong Polytechnic University, under the Faculty of Electrical and Electronic Engineering.
 
-My primary research interests lie in data mining, particularly in the field of recommender systems. Specifically, I focus on cutting-edge topics such as multimodal recommendation, group recommendation, graph learning, and the security and defense mechanisms of recommender systems. Through my work, I aim to develop more efficient and secure recommendation algorithms, contributing both to theoretical advancements and practical applications. 
+My primary research interests lie in data mining, particularly in the field of recommender systems. Specifically, I focus on cutting-edge topics such as multimodal recommendation, group recommendation, graph learning, and the security and defense mechanisms of recommender systems.
 
 [//]: # (I have published more than 5 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=Tj6-6lYAAAAJ'>google scholar citations <strong><span id='total_cit'>20+</span></strong></a>.)
-
-
-# 🔥 News
-- *2024.10*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
@@ -42,19 +38,37 @@ Jinfeng Xu, **Zheyu Chen**, Jinze Li, Shuo Yang, Hewei Wang, Edith C. H. Ngai,
 </div>
 </div>
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCE 24</div><img src='images/AlignGroup.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Improving Consumer Experience With Pre-Purify Temporal-Decay Memory-Based Collaborative Filtering Recommendation for Graduate School Application](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10552423)
+
+
+Jinfeng Xu, **Zheyu Chen**, Zixiao Ma, Jiyi Liu, Edith C. H. Ngai,
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Tj6-6lYAAAAJ&citation_for_view=Tj6-6lYAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- The Internet is booming with information, and it has become especially difficult for consumers to sift through the information. Recommendation systems can effectively enhance the consumer experience. <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+
+
+
+
+
+
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📑 Academic Services
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing \textit{(ICASSP 2025)}
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🎓 Educations
+- *2023.09 - 2025.03 (Excepted)*, Hong Kong Polytechnic University. **Master of Science** Major in *Electronic and Information Engineering* 
+- *2019.09 - 2023.07*, Beijing University of Technology | University College Dublin. **Bachelor of Science** Major in *Software Engineering*
+  - Award First-Class Honours degree from UCD and an Honours Bachelor's degree from BJUT
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
