@@ -21,7 +21,7 @@ Hello, my name is Zheyu Chen. I graduated with a bachelor's degree from Beijing 
 
 My primary research interests lie in data mining, particularly in the field of recommender systems. Specifically, I focus on cutting-edge topics such as multimodal recommendation, group recommendation, graph learning, and the security and defense mechanisms of recommender systems.
 
-[Link to README-zh.md](README-zh.md)
+[Link to README-zh.md](about_zh.md)
 [FourierKAN-GCF.pdf](../docs/FourierKAN-GCF.pdf)
 [//]: # (I have published more than 5 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=Tj6-6lYAAAAJ'>google scholar citations <strong><span id='total_cit'>20+</span></strong></a>.)
 
