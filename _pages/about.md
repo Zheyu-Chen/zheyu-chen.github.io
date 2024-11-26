@@ -69,5 +69,4 @@ Jinfeng Xu, **<u>Zheyu Chen</u>**, Zixiao Ma, Jiyi Liu, Edith C. H. Ngai,
 # 🎓 Educations
 - *2023.09 - 2025.03 (Excepted)*, Hong Kong Polytechnic University. **Master of Science** Major in *Electronic and Information Engineering* 
 - *2019.09 - 2023.07*, Beijing University of Technology | University College Dublin. **Bachelor of Science** Major in *Software Engineering*
-  - Award First-Class Honours degree from UCD and an Honours Bachelor's degree from BJUT
 
