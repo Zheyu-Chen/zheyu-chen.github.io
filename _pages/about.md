@@ -25,7 +25,25 @@ My primary research interests lie in data mining, particularly in the field of r
 
 [//]: # (I have published more than 5 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=Tj6-6lYAAAAJ'>google scholar citations <strong><span id='total_cit'>20+</span></strong></a>.)
 
-# 📝 Publications 
+# 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 25</div><img src='images/MENTOR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[MENTOR: Multi-level Self-supervised Learning for Multimodal Recommendation](https://arxiv.org/abs/2402.19407)
+
+
+
+
+Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Hewei Wang, Edith C-H Ngai,
+
+[**Paper**](MENTOR.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- To this end, we propose a Multi-level sElf-supervised learNing for mulTimOdal Recommendation (MENTOR) method to address the label sparsity problem and the modality alignment problem. [**[Code]**](https://github.com/Jinfeng-Xu/MENTOR) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 24</div><img src='images/AlignGroup.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -64,7 +82,7 @@ Jinfeng Xu, **<u>Zheyu Chen</u>**, Zixiao Ma, Jiyi Liu, Edith C. H. Ngai,
 
 
 
-- [A Review of Gray-scale Image Recoloring Methods With Neural Network Based Model](Recoloring.pdf), Yuyang Wang, Tianli Ren, Zhuoyi Zhang, <u>**Zheyu Chen**</u>, Jinfeng Xu, Zixiao Ma, Pai Zhu, Mingjia Zhang, **ICIVC 22**
+- [A Review of Gray-scale Image Recoloring Methods With Neural Network Based Model](Recoloring.pdf), Yuyang Wang, Tianli Ren, Zhuoyi Zhang, **<u>Zheyu Chen</u>**, Jinfeng Xu, Zixiao Ma, Pai Zhu, Mingjia Zhang, **ICIVC 22**
 
 
 
@@ -87,34 +105,13 @@ Jinfeng Xu, **Zheyu Chen**, Jinze Li, Shuo Yang, Wei Wang, Xiping Hu, Edith C-H 
 
 
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/MENTOR.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[MENTOR: Multi-level Self-supervised Learning for Multimodal Recommendation](https://arxiv.org/abs/2402.19407)
-
-
-
-Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Hewei Wang, Edith C-H Ngai,
-
-[**Paper**](MENTOR.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-- To this end, we propose a Multi-level sElf-supervised learNing for mulTimOdal Recommendation (MENTOR) method to address the label sparsity problem and the modality alignment problem. [**[Code]**](https://github.com/Jinfeng-Xu/MENTOR) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-</div>
-</div>
-
-
-
-
-
-
-
 # 📑 Academic Services
 
 - 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing *(ICASSP 2025)*
 
 # 🎓 Educations
 - *2023.09 - 2025.03 (Excepted)*, Hong Kong Polytechnic University. **Master of Science** Major in *Electronic and Information Engineering* 
+
 - *2019.09 - 2023.07*, Beijing University of Technology | University College Dublin. **Bachelor of Science** Major in *Software Engineering*
 
+  
