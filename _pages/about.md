@@ -27,6 +27,29 @@ My primary research interests lie in data mining, particularly in the field of r
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 25</div><img src='images/RedNnD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Don't Lose Yourself: Boosting Multimodal Recommendation via Reducing Node-neighbor Discrepancy in Graph Convolutional Network]()
+
+
+
+
+
+**<u>Zheyu Chen</u>**, Jinfeng Xu, Haibo Hu,
+
+[**Paper**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- To this end, we propose a Multi-level sElf-supervised learNing for mulTimOdal Recommendation (MENTOR) method to address the label sparsity problem and the modality alignment problem. [**[Code]**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 25</div><img src='images/MENTOR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [MENTOR: Multi-level Self-supervised Learning for Multimodal Recommendation](https://arxiv.org/abs/2402.19407)
@@ -108,10 +131,9 @@ Jinfeng Xu, **Zheyu Chen**, Jinze Li, Shuo Yang, Wei Wang, Xiping Hu, Edith C-H 
 # 📑 Academic Services
 
 - 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing *(ICASSP 2025)*
+- 2025 IEEE International Joint Conference on Neural Networks *(IJCNN 2025)*
 
 # 🎓 Educations
 - *2023.09 - 2025.03 (Excepted)*, Hong Kong Polytechnic University. **Master of Science** Major in *Electronic and Information Engineering* 
-
 - *2019.09 - 2023.07*, Beijing University of Technology | University College Dublin. **Bachelor of Science** Major in *Software Engineering*
-
-  
+- 
