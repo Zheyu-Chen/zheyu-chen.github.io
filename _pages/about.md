@@ -37,7 +37,7 @@ My primary research interests lie in data mining, particularly in the field of r
 
 **<u>Zheyu Chen</u>**, Jinfeng Xu, Haibo Hu,
 
-[**Paper**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](RedNnD.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - To address the over-smoothing problem, we propose a novel model that retains the personalized information of ego nodes during feature aggregation by Reducing Node-neighbor Discrepancy (RedN^nD). [**[Code]**](https://github.com/Zheyu-Chen/RedNnD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
