@@ -41,9 +41,9 @@ My primary research interests lie in data mining, particularly in the field of r
 
 **<u>Zheyu Chen</u>**, Jinfeng Xu, Yutong Wei, Ziyue Peng,
 
-[**Paper**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+Paper <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- A critical problem in existing GCL-based models is the irrational allocation of feature attention. This problem limits the model's ability to effectively leverage crucial features, resulting in suboptimal performance. To address this, we propose a Weighted Graph Contrastive Learning framework (WeightedGCL). [**[Code]**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A critical problem in existing GCL-based models is the irrational allocation of feature attention. This problem limits the model's ability to effectively leverage crucial features, resulting in suboptimal performance. To address this, we propose a Weighted Graph Contrastive Learning framework (WeightedGCL). <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 </div>
 </div>
@@ -62,9 +62,9 @@ My primary research interests lie in data mining, particularly in the field of r
 
 Jinfeng Xu, **<u>Zheyu Chen</u>**, Wei Wang, Xiping Hu, Sang-Wook Kim, Edith Ngai,
 
-[**Paper**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+Paper <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- Modality fusion and representation learning were considered as two independent processes in previous work.  In this paper, we reveal that these two processes are complementary and can support each other.  Specifically, powerful representation learning enhances modality fusion, while effective fusion improves representation quality.  Stemming from these two processes, we introduce a **CO**mposite grapH convolutional n**E**twork with dual-stage fu**SION** for the multimodal recommendation, named COHESION. [**[Code]**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Modality fusion and representation learning were considered as two independent processes in previous work. In this paper, we reveal that these two processes are complementary and can support each other. Specifically, powerful representation learning enhances modality fusion, while effective fusion improves representation quality. Stemming from these two processes, we introduce a **CO**mposite grapH convolutional n**E**twork with dual-stage fu**SION** for the multimodal recommendation, named COHESION. Code <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 </div>
 </div>
