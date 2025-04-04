@@ -19,7 +19,7 @@ redirect_from:
 
 Hello, my name is Zheyu Chen. I graduated with a bachelor's degree from Beijing University of Technology (BJUT) and University College Dublin (UCD) joint training program, where I majored in Software Engineering. I earned a First-Class Honours degree from UCD and an Honours Bachelor's degree from BJUT. Currently, I am pursuing my Master’s degree in Electronic and Information Engineering at The Hong Kong Polytechnic University, under the Faculty of Electrical and Electronic Engineering.
 
-My primary research interests lie in data mining, particularly in the field of recommender systems. Specifically, I focus on cutting-edge topics such as multimodal recommendation, group recommendation, graph learning, and the security and defense mechanisms of recommender systems.
+My primary research interests lie in data mining, particularly in the field of recommender systems. Specifically, I focus on cutting-edge topics such as multimodal recommendation, group recommendation, and graph learning.
 
 [//]: # ([中文版链接]&#40;about_zh.md&#41;)
 
@@ -27,9 +27,55 @@ My primary research interests lie in data mining, particularly in the field of r
 
 # 📝 Publications
 
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 25 short</div><img src='images/WeightedGCL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Squeeze and Excitation: A Weighted Graph Contrastive Learning for Collaborative Filtering]()
+
+
+
+
+
+**<u>Zheyu Chen</u>**, Jinfeng Xu, Yutong Wei, Ziyue Peng,
+
+[**Paper**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- A critical problem in existing GCL-based models is the irrational allocation of feature attention. This problem limits the model's ability to effectively leverage crucial features, resulting in suboptimal performance. To address this, we propose a Weighted Graph Contrastive Learning framework (WeightedGCL). [**[Code]**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 25</div><img src='images/COHESION.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[COHESION: Composite Graph Convolutional Network with Dual-Stage Fusion for Multimodal Recommendation]()
+
+
+
+
+
+Jinfeng Xu, **<u>Zheyu Chen</u>**, Wei Wang, Xiping Hu, Sang-Wook Kim and Edith Ngai,
+
+[**Paper**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- Modality fusion and representation learning were considered as two independent processes in previous work.  In this paper, we reveal that these two processes are complementary and can support each other.  Specifically, powerful representation learning enhances modality fusion, while effective fusion improves representation quality.  Stemming from these two processes, we introduce a **CO**mposite grapH convolutional n**E**twork with dual-stage fu**SION** for the multimodal recommendation, named COHESION. [**[Code]**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 25</div><img src='images/RedNnD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Don't Lose Yourself: Boosting Multimodal Recommendation via Reducing Node-neighbor Discrepancy in Graph Convolutional Network]()
+[Don't Lose Yourself: Boosting Multimodal Recommendation via Reducing Node-neighbor Discrepancy in Graph Convolutional Network](https://ieeexplore.ieee.org/abstract/document/10887910)
 
 
 
@@ -134,5 +180,6 @@ Jinfeng Xu, **Zheyu Chen**, Jinze Li, Shuo Yang, Wei Wang, Xiping Hu, Edith C-H 
 - 2025 IEEE International Joint Conference on Neural Networks *(IJCNN 2025)*
 
 # 🎓 Educations
-- *2023.09 - 2025.03 (Excepted)*, Hong Kong Polytechnic University. **Master of Science** Major in *Electronic and Information Engineering* 
+- *2023.09 - 2025.03*, Hong Kong Polytechnic University. **Master of Science** Major in *Electronic and Information Engineering* 
 - *2019.09 - 2023.07*, Beijing University of Technology | University College Dublin. **Bachelor of Science** Major in *Software Engineering*
+- …
