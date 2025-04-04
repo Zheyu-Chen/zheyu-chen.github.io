@@ -31,7 +31,7 @@ My primary research interests lie in data mining, particularly in the field of r
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 25 short</div><img src='images/WeightedGCL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 25</div><img src='images/WeightedGCL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Squeeze and Excitation: A Weighted Graph Contrastive Learning for Collaborative Filtering]()
 
@@ -60,7 +60,7 @@ My primary research interests lie in data mining, particularly in the field of r
 
 
 
-Jinfeng Xu, **<u>Zheyu Chen</u>**, Wei Wang, Xiping Hu, Sang-Wook Kim and Edith Ngai,
+Jinfeng Xu, **<u>Zheyu Chen</u>**, Wei Wang, Xiping Hu, Sang-Wook Kim, Edith Ngai,
 
 [**Paper**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
