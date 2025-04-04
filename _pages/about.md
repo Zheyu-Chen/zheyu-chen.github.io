@@ -64,7 +64,7 @@ Jinfeng Xu, **<u>Zheyu Chen</u>**, Wei Wang, Xiping Hu, Sang-Wook Kim, Edith Nga
 
 Paper <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- Modality fusion and representation learning were considered as two independent processes in previous work. In this paper, we reveal that these two processes are complementary and can support each other. Specifically, powerful representation learning enhances modality fusion, while effective fusion improves representation quality. Stemming from these two processes, we introduce a **CO**mposite grapH convolutional n**E**twork with dual-stage fu**SION** for the multimodal recommendation, named COHESION. Code <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Modality fusion and representation learning were considered as two independent processes in previous work. In this paper, we reveal that these two processes are complementary and can support each other. Specifically, powerful representation learning enhances modality fusion, while effective fusion improves representation quality. Stemming from these two processes, we introduce a **CO**mposite grapH convolutional n**E**twork with dual-stage fu**SION** for the multimodal recommendation, named COHESION. <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 </div>
 </div>
