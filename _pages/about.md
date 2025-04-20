@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hello, my name is Zheyu Chen. Currently, I am a Research Assistant at ASTAPLE Lab of The Hong Kong Polytechnic University, working under the supervision of Prof. Haibo Hu. I recently completed my Master's degree in Electronic and Information Engineering at the same university's Faculty of Electrical and Electronic Engineering. Prior to this, I earned dual Bachelor's degrees through a joint program between University College Dublin (UCD) and Beijing University of Technology (BJUT), graduating with First-Class Honours from UCD and an Honours degree from BJUT in Software Engineering.
+
 My primary research interests lie in data mining, particularly in the field of recommender systems. Specifically, I focus on cutting-edge topics such as multimodal recommendation and group-based recommendation.
 
 [//]: # ([中文版链接]&#40;about_zh.md&#41;)
