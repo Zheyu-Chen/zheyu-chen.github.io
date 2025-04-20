@@ -17,9 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, my name is Zheyu Chen. I graduated with a bachelor's degree from Beijing University of Technology (BJUT) and University College Dublin (UCD) joint training program, where I majored in Software Engineering. I earned a First-Class Honours degree from UCD and an Honours Bachelor's degree from BJUT. Currently, I am pursuing my Master’s degree in Electronic and Information Engineering at The Hong Kong Polytechnic University, under the Faculty of Electrical and Electronic Engineering.
-
-My primary research interests lie in data mining, particularly in the field of recommender systems. Specifically, I focus on cutting-edge topics such as multimodal recommendation, group recommendation, and graph learning.
+Hello, my name is Zheyu Chen. Currently, I am a Research Assistant at ASTAPLE Lab of The Hong Kong Polytechnic University, working under the supervision of Prof. Haibo Hu. I recently completed my Master's degree in Electronic and Information Engineering at the same university's Faculty of Electrical and Electronic Engineering. Prior to this, I earned dual Bachelor's degrees through a joint program between University College Dublin (UCD) and Beijing University of Technology (BJUT), graduating with First-Class Honours from UCD and an Honours degree from BJUT in Software Engineering.
+My primary research interests lie in data mining, particularly in the field of recommender systems. Specifically, I focus on cutting-edge topics such as multimodal recommendation and group-based recommendation.
 
 [//]: # ([中文版链接]&#40;about_zh.md&#41;)
 
@@ -180,5 +179,6 @@ Jinfeng Xu, **Zheyu Chen**, Jinze Li, Shuo Yang, Wei Wang, Xiping Hu, Edith C-H 
 - 2025 IEEE International Joint Conference on Neural Networks *(IJCNN 2025)*
 
 # 🎓 Educations
+- *2025.04 - 2025.08*, Hong Kong Polytechnic University. **Research Assistant** at *ASTAPLE Lab*
 - *2023.09 - 2025.03*, Hong Kong Polytechnic University. **Master of Science** Major in *Electronic and Information Engineering* 
 - *2019.09 - 2023.07*, Beijing University of Technology & University College Dublin. **Bachelor of Science** Major in *Software Engineering*
