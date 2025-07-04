@@ -35,9 +35,7 @@ My primary research interests lie in data mining, particularly in the field of r
 
 Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Edith C. H. Ngai 
 
-Paper <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-- This paper critically points out the inherent challenges associated with adopting GCNs during the training phase in MMRec, revealing that GCNs inevitably create unhelpful and even harmful pairs during model optimization and isolate different modalities. To this end, we propose FastMMRec, a highly efficient multimodal recommendation framework that deploys graph convolutions exclusively during the testing phase, bypassing their use in training. <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+Paper
 
 </div>
 </div>
