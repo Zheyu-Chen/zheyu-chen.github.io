@@ -35,8 +35,6 @@ My primary research interests lie in data mining, particularly in the field of r
 
 Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Edith C. H. Ngai 
 
-Paper
-
 </div>
 </div>
 
@@ -49,13 +47,7 @@ Paper
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Recsys 25</div><img src='images/NLGCL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [NLGCL: Naturally Existing Neighbor Layers Graph Contrastive Learning for Recommendation <font color=red>[spotlight]</font>]()
-
-
 Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Hewei Wang, Wei Wang, Xiping Hu, Edith CH Ngai
-
-Paper <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-- In this paper, we propose NLGCL, a novel contrastive learning framework that leverages naturally contrastive views between neighbor layers within GNNs. <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 </div>
 </div>
@@ -67,13 +59,9 @@ Paper <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 25</div><img src='images/MDVT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [MDVT: Enhancing Multimodal Recommendation with Model-Agnostic Multimodal-Driven Virtual Triplets](https://arxiv.org/abs/2505.16665)
-
-
 Jinfeng Xu, **<u>Zheyu Chen</u>**, Jinze Li, Shuo Yang, Hewei Wang, Yijie Li, Mengran Li, Puzhen Wu, Edith CH Ngai
 
-[**Paper**](MDVT.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-- In this paper, we propose MDVT, a model-agnostic approach that constructs multimodal-driven virtual triplets to provide valuable supervision signals, effectively mitigating the data sparsity problem in multimodal recommendation systems. <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](MDVT.pdf)
 
 </div>
 </div>
