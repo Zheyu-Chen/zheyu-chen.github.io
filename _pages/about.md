@@ -33,6 +33,7 @@ My primary research interests lie in data mining, particularly in the field of r
 <div class='paper-box-text' markdown="1">
 [The Best is Yet to Come: Graph Convolution in the Testing Phase for Multimodal Recommendation]()
 
+
 Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Edith C. H. Ngai 
 
 </div>
@@ -47,6 +48,8 @@ Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Edith C. H. Ngai
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Recsys 25</div><img src='images/NLGCL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [NLGCL: Naturally Existing Neighbor Layers Graph Contrastive Learning for Recommendation <font color=red>[spotlight]</font>]()
+
+
 Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Hewei Wang, Wei Wang, Xiping Hu, Edith CH Ngai
 
 </div>
@@ -59,6 +62,8 @@ Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Hewei Wang, Wei Wang, Xi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 25</div><img src='images/MDVT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [MDVT: Enhancing Multimodal Recommendation with Model-Agnostic Multimodal-Driven Virtual Triplets](https://arxiv.org/abs/2505.16665)
+
+
 Jinfeng Xu, **<u>Zheyu Chen</u>**, Jinze Li, Shuo Yang, Hewei Wang, Yijie Li, Mengran Li, Puzhen Wu, Edith CH Ngai
 
 [**Paper**](MDVT.pdf)
@@ -70,7 +75,8 @@ Jinfeng Xu, **<u>Zheyu Chen</u>**, Jinze Li, Shuo Yang, Hewei Wang, Yijie Li, Me
 
 
 
-- [Spec-LLaVA: Accelerating Vision-Language Models with Dynamic Tree-Based Speculative Decoding](), Mingxiao Huo, Jiayi Zhang, Hewei Wang, Jinfeng Xu, **<u>Zheyu Chen</u>**, Huilin Tai, Ian Yijun Chen, **TTODLer-FM @ ICML 2025**
+- [Spec-LLaVA: Accelerating Vision-Language Models with Dynamic Tree-Based Speculative Decoding](), 
+  Mingxiao Huo, Jiayi Zhang, Hewei Wang, Jinfeng Xu, **<u>Zheyu Chen</u>**, Huilin Tai, Ian Yijun Chen, **TTODLer-FM @ ICML 2025**
 
 
 
@@ -178,7 +184,8 @@ Jinfeng Xu, **<u>Zheyu Chen</u>**, Zixiao Ma, Jiyi Liu, Edith C. H. Ngai,
 
 
 
-- [A Review of Gray-scale Image Recoloring Methods With Neural Network Based Model](Recoloring.pdf), Yuyang Wang, Tianli Ren, Zhuoyi Zhang, **<u>Zheyu Chen</u>**, Jinfeng Xu, Zixiao Ma, Pai Zhu, Mingjia Zhang, **ICIVC 22**
+- [A Review of Gray-scale Image Recoloring Methods With Neural Network Based Model](Recoloring.pdf), 
+  Yuyang Wang, Tianli Ren, Zhuoyi Zhang, **<u>Zheyu Chen</u>**, Jinfeng Xu, Zixiao Ma, Pai Zhu, Mingjia Zhang, **ICIVC 22**
 
 
 
