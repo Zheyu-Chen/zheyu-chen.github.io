@@ -29,19 +29,75 @@ My primary research interests lie in data mining, particularly in the field of r
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 25</div><img src='images/FastMMRec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[The Best is Yet to Come: Graph Convolution in the Testing Phase for Multimodal Recommendation]()
+
+Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Edith C. H. Ngai 
+
+Paper <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- This paper critically points out the inherent challenges associated with adopting GCNs during the training phase in MMRec, revealing that GCNs inevitably create unhelpful and even harmful pairs during model optimization and isolate different modalities. To this end, we propose FastMMRec, a highly efficient multimodal recommendation framework that deploys graph convolutions exclusively during the testing phase, bypassing their use in training. <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+
+
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Recsys 25</div><img src='images/NLGCL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[NLGCL: Naturally Existing Neighbor Layers Graph Contrastive Learning for Recommendation <font color=red>[spotlight]</font>]()
+
+
+Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Hewei Wang, Wei Wang, Xiping Hu, Edith CH Ngai
+
+Paper <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- In this paper, we propose NLGCL, a novel contrastive learning framework that leverages naturally contrastive views between neighbor layers within GNNs. <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 25</div><img src='images/MDVT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[MDVT: Enhancing Multimodal Recommendation with Model-Agnostic Multimodal-Driven Virtual Triplets](https://arxiv.org/abs/2505.16665)
+
+
+Jinfeng Xu, **<u>Zheyu Chen</u>**, Jinze Li, Shuo Yang, Hewei Wang, Yijie Li, Mengran Li, Puzhen Wu, Edith CH Ngai
+
+[**Paper**](MDVT.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- In this paper, we propose MDVT, a model-agnostic approach that constructs multimodal-driven virtual triplets to provide valuable supervision signals, effectively mitigating the data sparsity problem in multimodal recommendation systems. <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+
+
+
+
+- [Spec-LLaVA: Accelerating Vision-Language Models with Dynamic Tree-Based Speculative Decoding](), Mingxiao Huo, Jiayi Zhang, Hewei Wang, Jinfeng Xu, **<u>Zheyu Chen</u>**, Huilin Tai, Ian Yijun Chen, **TTODLer-FM @ ICML 2025**
+
+
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 25</div><img src='images/WeightedGCL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Squeeze and Excitation: A Weighted Graph Contrastive Learning for Collaborative Filtering]()
-
-
-
+[Squeeze and Excitation: A Weighted Graph Contrastive Learning for Collaborative Filtering](https://arxiv.org/abs/2504.04443)
 
 
 **<u>Zheyu Chen</u>**, Jinfeng Xu, Yutong Wei, Ziyue Peng,
 
-Paper <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](WeightedGCL.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - A critical problem in existing GCL-based models is the irrational allocation of feature attention. This problem limits the model's ability to effectively leverage crucial features, resulting in suboptimal performance. To address this, we propose a Weighted Graph Contrastive Learning framework (WeightedGCL). <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -54,15 +110,12 @@ Paper <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 25</div><img src='images/COHESION.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[COHESION: Composite Graph Convolutional Network with Dual-Stage Fusion for Multimodal Recommendation]()
-
-
-
+[COHESION: Composite Graph Convolutional Network with Dual-Stage Fusion for Multimodal Recommendation](https://arxiv.org/abs/2504.04452)
 
 
 Jinfeng Xu, **<u>Zheyu Chen</u>**, Wei Wang, Xiping Hu, Sang-Wook Kim, Edith Ngai,
 
-Paper <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](COHESION.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - Modality fusion and representation learning were considered as two independent processes in previous work. In this paper, we reveal that these two processes are complementary and can support each other. Specifically, powerful representation learning enhances modality fusion, while effective fusion improves representation quality. Stemming from these two processes, we introduce a **CO**mposite grapH convolutional n**E**twork with dual-stage fu**SION** for the multimodal recommendation, named COHESION. <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -76,10 +129,6 @@ Paper <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 25</div><img src='images/RedNnD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Don't Lose Yourself: Boosting Multimodal Recommendation via Reducing Node-neighbor Discrepancy in Graph Convolutional Network](https://ieeexplore.ieee.org/abstract/document/10887910)
-
-
-
-
 
 **<u>Zheyu Chen</u>**, Jinfeng Xu, Haibo Hu,
 
@@ -99,10 +148,6 @@ Paper <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 25</div><img src='images/MENTOR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [MENTOR: Multi-level Self-supervised Learning for Multimodal Recommendation](https://arxiv.org/abs/2402.19407)
-
-
-
-
 Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Hewei Wang, Edith C-H Ngai,
 
 [**Paper**](MENTOR.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -117,8 +162,6 @@ Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Hewei Wang, Edith C-H Ng
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 24</div><img src='images/AlignGroup.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [AlignGroup: Learning and Aligning Group Consensus with Member Preferences for Group Recommendation](https://dl.acm.org/doi/abs/10.1145/3627673.3679697)
-
-
 Jinfeng Xu, **<u>Zheyu Chen</u>**, Jinze Li, Shuo Yang, Hewei Wang, Edith C. H. Ngai,
 
 [**Paper**](AlignGroup.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -133,8 +176,6 @@ Jinfeng Xu, **<u>Zheyu Chen</u>**, Jinze Li, Shuo Yang, Hewei Wang, Edith C. H. 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCE 24</div><img src='images/PTMCF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Improving Consumer Experience With Pre-Purify Temporal-Decay Memory-Based Collaborative Filtering Recommendation for Graduate School Application](https://ieeexplore.ieee.org/abstract/document/10552423)
-
-
 Jinfeng Xu, **<u>Zheyu Chen</u>**, Zixiao Ma, Jiyi Liu, Edith C. H. Ngai,
 
 [**Paper**](PTMCF.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -157,11 +198,28 @@ Jinfeng Xu, **<u>Zheyu Chen</u>**, Zixiao Ma, Jiyi Liu, Edith C. H. Ngai,
 
 # 📝 Preprint
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/6G Wireless.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Generative AI for Vulnerability Detection in 6G Wireless Networks: Advances, Case Study, and Future Directions
+](https://arxiv.org/abs/2506.20488)
+
+
+Shuo Yang, Xinran Zheng, Jinfeng Xu, Jinze Li, Danyang Song, **<u>Zheyu Chen</u>**, Edith C.H. Ngai
+
+[**Paper**](6G Wireless.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- We introduce a three-layer framework comprising the Technology Layer, Capability Layer, and Application Layer to systematically analyze the role of VAEs, GANs, LLMs, and GDMs in securing next-generation wireless ecosystems. <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/FourierKAN-GCF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [FourierKAN-GCF: Fourier Kolmogorov-Arnold Network -- An Effective and Efficient Feature Transformation for Graph Collaborative Filtering](https://arxiv.org/abs/2406.01034)
-
-
 
 Jinfeng Xu, **Zheyu Chen**, Jinze Li, Shuo Yang, Wei Wang, Xiping Hu, Edith C-H Ngai,
 
