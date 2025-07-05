@@ -47,7 +47,8 @@ Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Edith C. H. Ngai
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Recsys 25</div><img src='images/NLGCL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[NLGCL: Naturally Existing Neighbor Layers Graph Contrastive Learning for Recommendation <font color=red>[spotlight]</font>]()
+[NLGCL: Naturally Existing Neighbor Layers Graph Contrastive Learning for Recommendation <font color=red>[spotlight oral]</font>]()
+
 
 
 Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Hewei Wang, Wei Wang, Xiping Hu, Edith CH Ngai
