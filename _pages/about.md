@@ -17,15 +17,46 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, my name is Zheyu Chen. Currently, I am a Research Assistant at ASTAPLE Lab of The Hong Kong Polytechnic University, working under the supervision of Prof. Haibo Hu. I recently completed my Master's degree in Electronic and Information Engineering at the same university's Faculty of Electrical and Electronic Engineering. Prior to this, I earned dual Bachelor's degrees through a joint program between University College Dublin (UCD) and Beijing University of Technology (BJUT), graduating with First-Class Honours from UCD and an Honours degree from BJUT in Software Engineering.
+Hello, my name is Zheyu Chen. Currently, I am a PhD student at Beijing Institute of Technology, and my the supervisor is Prof. Kaiyu Feng. I recently completed my Master's degree in Electronic and Information Engineering at The Hong Kong Polytechnic University.
 
-My primary research interests lie in data mining, particularly in the field of recommender systems. Specifically, I focus on cutting-edge topics such as multimodal recommendation and group-based recommendation.
+My primary research interests lie in Data Mining and AI4DB. 
 
 [//]: # ([中文版链接]&#40;about_zh.md&#41;)
 
 [//]: # (I have published more than 5 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=Tj6-6lYAAAAJ'>google scholar citations <strong><span id='total_cit'>20+</span></strong></a>.)
 
 # 📝 Publications
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 25</div><img src='images/HPMRec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Hypercomplex Prompt-aware Multimodal Recommendation](https://arxiv.org/abs/2508.10753)
+
+**Zheyu Chen**, Jinfeng Xu, Hewei Wang, Shuo Yang, Zitong Wan, Haibo Hu,
+
+[**Paper**](HPMRec.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- We propose **HPMRec**, a novel **H**ypercomplex **P**rompt-aware **M**ultimodal **Rec**ommendation framework, which utilizes hypercomplex embeddings in the form of multi-components to enhance the representation diversity of multimodal features. <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 25</div><img src='images/FourierKAN-GCF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Enhancing Graph Collaborative Filtering with FourierKAN Feature Transformation](https://arxiv.org/abs/2406.01034)
+
+
+Jinfeng Xu, **Zheyu Chen**, Jinze Li, Shuo Yang, Wei Wang, Xiping Hu, Edith C-H Ngai,
+
+[**Paper**](FourierKAN-GCF.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- Graph Collaborative Filtering (GCF) has achieved state-of-the-art performance for recommendation tasks. <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
 
 
 
@@ -209,29 +240,16 @@ Shuo Yang, Xinran Zheng, Jinfeng Xu, Jinze Li, Danyang Song, **<u>Zheyu Chen</u>
 
 
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/FourierKAN-GCF.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[FourierKAN-GCF: Fourier Kolmogorov-Arnold Network -- An Effective and Efficient Feature Transformation for Graph Collaborative Filtering](https://arxiv.org/abs/2406.01034)
-
-Jinfeng Xu, **Zheyu Chen**, Jinze Li, Shuo Yang, Wei Wang, Xiping Hu, Edith C-H Ngai,
-
-[**Paper**](FourierKAN-GCF.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-- Graph Collaborative Filtering (GCF) has achieved state-of-the-art performance for recommendation tasks. <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-</div>
-</div>
-
-
-
 # 📑 Academic Services
 
+- 2026 Neural Networks Reviewer
+- 2026 AAAI Program Committee (AAAI 2026)
 - 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing *(ICASSP 2025)*
 - 2025 IEEE International Joint Conference on Neural Networks *(IJCNN 2025)*
 
 # 🎓 Educations
+
+- *2025.09 - Present*, Beijing Institute of Technology. **PhD student** at *Computer Science*
 - *2025.04 - 2025.08*, Hong Kong Polytechnic University. **Research Assistant** at *ASTAPLE Lab*
 - *2023.09 - 2025.03*, Hong Kong Polytechnic University. **Master of Science** Major in *Electronic and Information Engineering* 
 - *2019.09 - 2023.07*, Beijing University of Technology & University College Dublin. **Bachelor of Science** Major in *Software Engineering*
