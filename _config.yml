@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zheyu Chen's Homepage"
-description              : "Hello, my name is Zheyu Chen(陈哲雨). Currently, I am a PhD student at Beijing Institute of Technology."
+description              : "Hello, my name is Zheyu Chen(陈哲雨 in Chinese). Currently, I am a PhD student at Beijing Institute of Technology."
 repository               : "Zheyu-Chen/zheyu-chen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zheyu Chen"
+  name             : "Zheyu Chen (陈哲雨)"
   avatar           : "images/avatar.jpg"
   bio              :
   location         : "Beijing, China"

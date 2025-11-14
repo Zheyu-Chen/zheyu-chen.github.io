@@ -21,9 +21,7 @@ Hello, my name is Zheyu Chen. Currently, I am a PhD student at Beijing Institute
 
 My primary research interests lie in Data Mining and AI4DB. 
 
-Feel free to contact me via [Email](mailto:zheyu.chen@connect.polyu.hk) or [WeChat](images/WeChat.jpg).
-
-📄 You can download my CV [here](Resume-ChenZheyu.pdf).
+Feel free to contact me via [Email](mailto:zheyu.chen@connect.polyu.hk) or [WeChat](images/WeChat.jpg). You can download my CV [here](Resume-ChenZheyu.pdf).
 
 [//]: # ([中文版链接]&#40;about_zh.md&#41;)
 [//]: # (I have published more than 5 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=Tj6-6lYAAAAJ'>google scholar citations <strong><span id='total_cit'>20+</span></strong></a>.)
@@ -292,6 +290,22 @@ Shuo Yang, Xinran Zheng, Jinfeng Xu, Jinze Li, Danyang Song, **<u>Zheyu Chen</u>
 - 2026 AAAI Program Committee (AAAI 2026)
 - 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing *(ICASSP 2025)*
 - 2025 IEEE International Joint Conference on Neural Networks *(IJCNN 2025)*
+
+
+
+# 💬 Talks
+
+- Invited Talk
+  - Data Science Lab, Hanyang University, Seoul, Korea, 2025.11
+- Conference Presentation
+  - CIKM 2025, Seoul, Korea, 2025.11
+  - ICASSP 2025, Hyderabad, India, 2025.04 (Virtual)
+- Poster Presentation
+  - SIGIR 2025, Padova, Italy, 2025.08
+  - ICASSP 2025 Satellite conference, Suzhou, China, 2025.05 
+
+
+
 
 # 🎓 Educations
 
