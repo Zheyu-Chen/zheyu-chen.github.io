@@ -33,13 +33,11 @@ Feel free to contact me via [Email](mailto:zheyu.chen@connect.polyu.hk) or [WeCh
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 26</div><img src='images/Multi-DProxy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Multi-modal Dynamic Proxy Learning for Personalized Multiple Clustering](https://arxiv.org/abs/2511.07274)
-
-
 Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Ziyue Peng, Zewei Liu, Hewei Wang, Jiayi Zhang, and Edith Ngai
 
 [**Paper**](Multi-DProxy.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- This survey serves as a comprehensive guide for researchers and practitioners in MRS field, providing insights into the current state of MRS technology and identifying areas for future research. We hope to contribute to developing a more sophisticated and effective multimodal recommender system. <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose Multi-DProxy, a novel multi-modal dynamic proxy learning framework that leverages cross-modal alignment through learnable textual proxies. <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 </div>
 </div>
@@ -49,13 +47,11 @@ Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Ziyue Peng, Zewei Liu, H
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 25</div><img src='images/MRS Survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [A Survey on Multimodal Recommender Systems: Recent Advances and Future Directions](https://arxiv.org/abs/2502.15711)
-
-
 Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Wei Wang, Xiping Hu, Steven Hoi, Edith Ngai
 
 [**Paper**](MRS Survey) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- This survey serves as a comprehensive guide for researchers and practitioners in MRS field, providing insights into the current state of MRS technology and identifying areas for future research. We hope to contribute to developing a more sophisticated and effective multimodal recommender system. <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This survey serves as a comprehensive guide for researchers and practitioners in MRS field, providing insights into the current state of MRS technology and identifying areas for future research. <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 </div>
 </div>
@@ -65,8 +61,6 @@ Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Wei Wang, Xiping Hu, Ste
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 25</div><img src='images/BSAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Enhancing Robustness and Generalization Capability for Multimodal Recommender Systems via Sharpness-Aware Minimization](https://ieeexplore.ieee.org/abstract/document/11154965/authors#authors)
-
-
 Jinfeng Xu, **<u>Zheyu Chen</u>**, Jinze Li, Shuo Yang, Wei Wang, Xiping Hu, Raymond Chi-Wing Wong, Edith Ngai
 
 [**Paper**](BSAM.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
