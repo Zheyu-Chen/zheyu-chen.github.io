@@ -35,7 +35,7 @@ Feel free to contact me via [Email](mailto:zheyu.chen@connect.polyu.hk) or [WeCh
 [Multi-modal Dynamic Proxy Learning for Personalized Multiple Clustering](https://arxiv.org/abs/2511.07274)
 
 
-Jinfeng Xu, **Zheyu Chen**, Shuo Yang, Jinze Li, Ziyue Peng, Zewei Liu, Hewei Wang, Jiayi Zhang, and Edith Ngai
+Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Ziyue Peng, Zewei Liu, Hewei Wang, Jiayi Zhang, and Edith Ngai
 
 [**Paper**](Multi-DProxy.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -51,7 +51,7 @@ Jinfeng Xu, **Zheyu Chen**, Shuo Yang, Jinze Li, Ziyue Peng, Zewei Liu, Hewei Wa
 [A Survey on Multimodal Recommender Systems: Recent Advances and Future Directions](https://arxiv.org/abs/2502.15711)
 
 
-Jinfeng Xu, **Zheyu Chen**, Shuo Yang, Jinze Li, Wei Wang, Xiping Hu, Steven Hoi, Edith Ngai
+Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Wei Wang, Xiping Hu, Steven Hoi, Edith Ngai
 
 [**Paper**](MRS Survey) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -67,7 +67,7 @@ Jinfeng Xu, **Zheyu Chen**, Shuo Yang, Jinze Li, Wei Wang, Xiping Hu, Steven Hoi
 [Enhancing Robustness and Generalization Capability for Multimodal Recommender Systems via Sharpness-Aware Minimization](https://ieeexplore.ieee.org/abstract/document/11154965/authors#authors)
 
 
-Jinfeng Xu, **Zheyu Chen**, Jinze Li, Shuo Yang, Wei Wang, Xiping Hu, Raymond Chi-Wing Wong, Edith Ngai
+Jinfeng Xu, **<u>Zheyu Chen</u>**, Jinze Li, Shuo Yang, Wei Wang, Xiping Hu, Raymond Chi-Wing Wong, Edith Ngai
 
 [**Paper**](BSAM.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -81,8 +81,7 @@ Jinfeng Xu, **Zheyu Chen**, Jinze Li, Shuo Yang, Wei Wang, Xiping Hu, Raymond Ch
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 25</div><img src='images/HPMRec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Hypercomplex Prompt-aware Multimodal Recommendation](https://arxiv.org/abs/2508.10753)
-
-**Zheyu Chen**, Jinfeng Xu, Hewei Wang, Shuo Yang, Zitong Wan, Haibo Hu,
+**<u>Zheyu Chen</u>**, Jinfeng Xu, Hewei Wang, Shuo Yang, Zitong Wan, Haibo Hu,
 
 [**Paper**](HPMRec.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -96,7 +95,8 @@ Jinfeng Xu, **Zheyu Chen**, Jinze Li, Shuo Yang, Wei Wang, Xiping Hu, Raymond Ch
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 25</div><img src='images/FourierKAN-GCF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Enhancing Graph Collaborative Filtering with FourierKAN Feature Transformation](https://arxiv.org/abs/2406.01034)
-Jinfeng Xu, **Zheyu Chen**, Jinze Li, Shuo Yang, Wei Wang, Xiping Hu, Edith Ngai,
+
+Jinfeng Xu, **<u>Zheyu Chen</u>**, Jinze Li, Shuo Yang, Wei Wang, Xiping Hu, Edith Ngai,
 
 [**Paper**](FourierKAN-GCF.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
