@@ -115,10 +115,12 @@ Jinfeng Xu, **<u>Zheyu Chen</u>**, Jinze Li, Shuo Yang, Wei Wang, Xiping Hu, Edi
 
 [**Paper**](FourierKAN-GCF.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- Graph Collaborative Filtering (GCF) has achieved state-of-the-art performance for recommendation tasks. [**[Code]**](https://github.com/Zheyu-Chen/WeightedGCL) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Graph Collaborative Filtering (GCF) has achieved state-of-the-art performance for recommendation tasks. [**[Code]**](https://github.com/Jinfeng-Xu/FKAN-GCF) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 </div>
 </div>
+
+
 
 
 
@@ -129,7 +131,7 @@ Jinfeng Xu, **<u>Zheyu Chen</u>**, Jinze Li, Shuo Yang, Wei Wang, Xiping Hu, Edi
 
 Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Edith Ngai 
 
-[**Paper**](FastMMRec.pdf) [**[Code]**](https://github.com/Zheyu-Chen/WeightedGCL)
+[**Paper**](FastMMRec.pdf)
 
 </div>
 </div>
