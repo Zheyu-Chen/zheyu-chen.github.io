@@ -28,8 +28,6 @@ Feel free to contact me via [Email](mailto:zheyu.chen@connect.polyu.hk) or [WeCh
 
 # 📝 Publications
 
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 26</div><img src='images/Multi-DProxy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Multi-modal Dynamic Proxy Learning for Personalized Multiple Clustering](https://arxiv.org/abs/2511.07274)
