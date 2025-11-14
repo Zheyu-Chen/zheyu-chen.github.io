@@ -21,8 +21,11 @@ Hello, my name is Zheyu Chen. Currently, I am a PhD student at Beijing Institute
 
 My primary research interests lie in Data Mining and AI4DB. 
 
-[//]: # ([中文版链接]&#40;about_zh.md&#41;)
+Feel free to contact me via [Email](mailto:zheyu.chen@connect.polyu.hk) or [WeChat](images/WeChat.jpg).
 
+📄 You can download my CV [here](Resume-ChenZheyu.pdf).
+
+[//]: # ([中文版链接]&#40;about_zh.md&#41;)
 [//]: # (I have published more than 5 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=Tj6-6lYAAAAJ'>google scholar citations <strong><span id='total_cit'>20+</span></strong></a>.)
 
 # 📝 Publications
