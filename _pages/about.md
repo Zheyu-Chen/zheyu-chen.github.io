@@ -29,6 +29,54 @@ My primary research interests lie in Data Mining and AI4DB.
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 26</div><img src='images/Multi-DProxy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Multi-modal Dynamic Proxy Learning for Personalized Multiple Clustering](https://arxiv.org/abs/2511.07274)
+
+
+Jinfeng Xu, **Zheyu Chen**, Shuo Yang, Jinze Li, Ziyue Peng, Zewei Liu, Hewei Wang, Jiayi Zhang, and Edith Ngai
+
+[**Paper**](Multi-DProxy.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- This survey serves as a comprehensive guide for researchers and practitioners in MRS field, providing insights into the current state of MRS technology and identifying areas for future research. We hope to contribute to developing a more sophisticated and effective multimodal recommender system. <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 25</div><img src='images/MRS Survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[A Survey on Multimodal Recommender Systems: Recent Advances and Future Directions](https://arxiv.org/abs/2502.15711)
+
+
+Jinfeng Xu, **Zheyu Chen**, Shuo Yang, Jinze Li, Wei Wang, Xiping Hu, Steven Hoi, Edith Ngai
+
+[**Paper**](MRS Survey) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- This survey serves as a comprehensive guide for researchers and practitioners in MRS field, providing insights into the current state of MRS technology and identifying areas for future research. We hope to contribute to developing a more sophisticated and effective multimodal recommender system. <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 25</div><img src='images/BSAM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Enhancing Robustness and Generalization Capability for Multimodal Recommender Systems via Sharpness-Aware Minimization](https://ieeexplore.ieee.org/abstract/document/11154965/authors#authors)
+
+
+Jinfeng Xu, **Zheyu Chen**, Jinze Li, Shuo Yang, Wei Wang, Xiping Hu, Raymond Chi-Wing Wong, Edith Ngai
+
+[**Paper**](BSAM.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- We propose a sharpness-aware minimization strategy focused on batch data (BSAM), which effectively enhances the robustness and generalization capability of multimodal recommender systems without requiring extensive hyper-parameter tuning. Furthermore, we introduce a mixed loss variant strategy (BSAM+), which accelerates convergence and achieves remarkable performance improvement. <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 25</div><img src='images/HPMRec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Hypercomplex Prompt-aware Multimodal Recommendation](https://arxiv.org/abs/2508.10753)
@@ -47,9 +95,7 @@ My primary research interests lie in Data Mining and AI4DB.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 25</div><img src='images/FourierKAN-GCF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Enhancing Graph Collaborative Filtering with FourierKAN Feature Transformation](https://arxiv.org/abs/2406.01034)
-
-
-Jinfeng Xu, **Zheyu Chen**, Jinze Li, Shuo Yang, Wei Wang, Xiping Hu, Edith C-H Ngai,
+Jinfeng Xu, **Zheyu Chen**, Jinze Li, Shuo Yang, Wei Wang, Xiping Hu, Edith Ngai,
 
 [**Paper**](FourierKAN-GCF.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -62,15 +108,14 @@ Jinfeng Xu, **Zheyu Chen**, Jinze Li, Shuo Yang, Wei Wang, Xiping Hu, Edith C-H 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 25</div><img src='images/FastMMRec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[The Best is Yet to Come: Graph Convolution in the Testing Phase for Multimodal Recommendation]()
+[The Best is Yet to Come: Graph Convolution in the Testing Phase for Multimodal Recommendation](https://dl.acm.org/doi/10.1145/3746027.3755781)
 
+Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Edith Ngai 
 
-Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Edith C. H. Ngai 
+[**Paper**](FastMMRec.pdf)
 
 </div>
 </div>
-
-
 
 
 
@@ -78,11 +123,11 @@ Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Edith C. H. Ngai
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Recsys 25</div><img src='images/NLGCL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[NLGCL: Naturally Existing Neighbor Layers Graph Contrastive Learning for Recommendation <font color=red>[spotlight oral]</font>]()
+[NLGCL: Naturally Existing Neighbor Layers Graph Contrastive Learning for Recommendation <font color=red>[spotlight oral]</font>](https://dl.acm.org/doi/full/10.1145/3705328.3748059?casa_token=GYHFWa6pdCwAAAAA%3A0ISIWQsKXNNT5rWKbZ9JcvupSqN4kiCSGz0cIPoIs7aQbnx8M-KJXh6zxGWBnqQR8R_Rvbbp6a9LXw)
 
+[**Paper**](NLGCL.pdf)
 
-
-Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Hewei Wang, Wei Wang, Xiping Hu, Edith CH Ngai
+Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Hewei Wang, Wei Wang, Xiping Hu, Edith Ngai
 
 </div>
 </div>
@@ -94,9 +139,7 @@ Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Hewei Wang, Wei Wang, Xi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 25</div><img src='images/MDVT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [MDVT: Enhancing Multimodal Recommendation with Model-Agnostic Multimodal-Driven Virtual Triplets](https://arxiv.org/abs/2505.16665)
-
-
-Jinfeng Xu, **<u>Zheyu Chen</u>**, Jinze Li, Shuo Yang, Hewei Wang, Yijie Li, Mengran Li, Puzhen Wu, Edith CH Ngai
+Jinfeng Xu, **<u>Zheyu Chen</u>**, Jinze Li, Shuo Yang, Hewei Wang, Yijie Li, Mengran Li, Puzhen Wu, Edith Ngai
 
 [**Paper**](MDVT.pdf)
 
@@ -117,8 +160,6 @@ Jinfeng Xu, **<u>Zheyu Chen</u>**, Jinze Li, Shuo Yang, Hewei Wang, Yijie Li, Me
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 25</div><img src='images/WeightedGCL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Squeeze and Excitation: A Weighted Graph Contrastive Learning for Collaborative Filtering](https://arxiv.org/abs/2504.04443)
-
-
 **<u>Zheyu Chen</u>**, Jinfeng Xu, Yutong Wei, Ziyue Peng,
 
 [**Paper**](WeightedGCL.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -135,8 +176,6 @@ Jinfeng Xu, **<u>Zheyu Chen</u>**, Jinze Li, Shuo Yang, Hewei Wang, Yijie Li, Me
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 25</div><img src='images/COHESION.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [COHESION: Composite Graph Convolutional Network with Dual-Stage Fusion for Multimodal Recommendation](https://arxiv.org/abs/2504.04452)
-
-
 Jinfeng Xu, **<u>Zheyu Chen</u>**, Wei Wang, Xiping Hu, Sang-Wook Kim, Edith Ngai,
 
 [**Paper**](COHESION.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -167,12 +206,11 @@ Jinfeng Xu, **<u>Zheyu Chen</u>**, Wei Wang, Xiping Hu, Sang-Wook Kim, Edith Nga
 
 
 
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 25</div><img src='images/MENTOR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [MENTOR: Multi-level Self-supervised Learning for Multimodal Recommendation](https://arxiv.org/abs/2402.19407)
-Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Hewei Wang, Edith C-H Ngai,
+
+Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Hewei Wang, Edith Ngai,
 
 [**Paper**](MENTOR.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -183,10 +221,13 @@ Jinfeng Xu, **<u>Zheyu Chen</u>**, Shuo Yang, Jinze Li, Hewei Wang, Edith C-H Ng
 
 
 
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 24</div><img src='images/AlignGroup.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [AlignGroup: Learning and Aligning Group Consensus with Member Preferences for Group Recommendation](https://dl.acm.org/doi/abs/10.1145/3627673.3679697)
-Jinfeng Xu, **<u>Zheyu Chen</u>**, Jinze Li, Shuo Yang, Hewei Wang, Edith C. H. Ngai,
+
+Jinfeng Xu, **<u>Zheyu Chen</u>**, Jinze Li, Shuo Yang, Hewei Wang, Edith Ngai,
 
 [**Paper**](AlignGroup.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -197,10 +238,13 @@ Jinfeng Xu, **<u>Zheyu Chen</u>**, Jinze Li, Shuo Yang, Hewei Wang, Edith C. H. 
 
 
 
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCE 24</div><img src='images/PTMCF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Improving Consumer Experience With Pre-Purify Temporal-Decay Memory-Based Collaborative Filtering Recommendation for Graduate School Application](https://ieeexplore.ieee.org/abstract/document/10552423)
-Jinfeng Xu, **<u>Zheyu Chen</u>**, Zixiao Ma, Jiyi Liu, Edith C. H. Ngai,
+
+Jinfeng Xu, **<u>Zheyu Chen</u>**, Zixiao Ma, Jiyi Liu, Edith Ngai,
 
 [**Paper**](PTMCF.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -208,10 +252,6 @@ Jinfeng Xu, **<u>Zheyu Chen</u>**, Zixiao Ma, Jiyi Liu, Edith C. H. Ngai,
 
 </div>
 </div>
-
-
-
-
 
 
 
@@ -229,7 +269,7 @@ Jinfeng Xu, **<u>Zheyu Chen</u>**, Zixiao Ma, Jiyi Liu, Edith C. H. Ngai,
 ](https://arxiv.org/abs/2506.20488)
 
 
-Shuo Yang, Xinran Zheng, Jinfeng Xu, Jinze Li, Danyang Song, **<u>Zheyu Chen</u>**, Edith C.H. Ngai
+Shuo Yang, Xinran Zheng, Jinfeng Xu, Jinze Li, Danyang Song, **<u>Zheyu Chen</u>**, Edith Ngai
 
 [**Paper**](6G Wireless.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -242,7 +282,10 @@ Shuo Yang, Xinran Zheng, Jinfeng Xu, Jinze Li, Danyang Song, **<u>Zheyu Chen</u>
 
 # 📑 Academic Services
 
-- 2026 Neural Networks Reviewer
+- 2026 Expert Systems with Applications Reviewer (JCR Q1, IF=7.5)
+- 2026 Knowledge-Based Systems Reviewer (JCR Q1, IF=7.6)
+- 2026 IEEE Wireless Communications Magazine Reviewer (JCR Q1, IF=11.6)
+- 2026 Neural Networks Reviewer (JCR Q1, IF=6.3)
 - 2026 AAAI Program Committee (AAAI 2026)
 - 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing *(ICASSP 2025)*
 - 2025 IEEE International Joint Conference on Neural Networks *(IJCNN 2025)*
