@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zheyu Chen's Homepage"
-description              : "Hello, my name is Zheyu Chen. Currently, I am a PhD student at Beijing Institute of Technology."
+description              : "Hello, my name is Zheyu Chen(陈哲雨). Currently, I am a PhD student at Beijing Institute of Technology."
 repository               : "Zheyu-Chen/zheyu-chen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=Tj6-6lYAAAAJ"
-  email            : "zheyu.chen@connect.polyu.hk"
+  email(preferred) : "zheyu.chen@connect.polyu.hk"
+  email            : "zheyu.chen@bit.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
