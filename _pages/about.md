@@ -293,33 +293,24 @@ Jinfeng Xu, **<u>Zheyu Chen</u>**, Zixiao Ma, Jiyi Liu, Edith Ngai
 
 
 
-# 📝 Preprint
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/6G Wireless.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Generative AI for Vulnerability Detection in 6G Wireless Networks: Advances, Case Study, and Future Directions
-](https://arxiv.org/abs/2506.20488)
-
-
-Shuo Yang, Xinran Zheng, Jinfeng Xu, Jinze Li, Danyang Song, **<u>Zheyu Chen</u>**, Edith Ngai
-
-[**Paper**](6G Wireless.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-- We introduce a three-layer framework comprising the Technology Layer, Capability Layer, and Application Layer to systematically analyze the role of VAEs, GANs, LLMs, and GDMs in securing next-generation wireless ecosystems. <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-</div>
-</div>
-
 
 
 # 📑 Academic Services
 
-- 2026 IEEE Wireless Communications Magazine Reviewer (JCR Q1, IF=11.6)
-- 2026 Neural Networks Reviewer (JCR Q1, IF=6.3)
-- 2026 AAAI Program Committee (AAAI 2026)
-- 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing *(ICASSP 2025)*
-- 2025 IEEE International Joint Conference on Neural Networks *(IJCNN 2025)*
+## Conference
+- International Conference on Machine Learning Reviewer *(ICML)*
+- ACM SIGKDD Conference on Knowledge Discovery and Data Mining Reviewer *(SIGKDD)*
+- ACM International Conference on Multimedia Reviewer *(ACM MM)*
+- Annual AAAI Conference on Artificial Intelligence Program Committee *(AAAI)*
+- IEEE International Conference on Acoustics, Speech, and Signal Processing Reviewer *(ICASSP)*
+- IEEE International Joint Conference on Neural Networks Reviewer *(IJCNN)*
 
+## Transaction / Journal
+- ACM Transactions on Information Systems Reviewer *(TOIS)*
+- IEEE Transactions on Multimedia Reviewer *(TMM)*
+- IEEE Transactions on Big Data Reviewer *(TBD)*
+- Neural Networks Reviewer *(NN)*
+- IEEE Wireless Communications Magazine Reviewer
 
 
 # 💬 Talks
@@ -327,6 +318,7 @@ Shuo Yang, Xinran Zheng, Jinfeng Xu, Jinze Li, Danyang Song, **<u>Zheyu Chen</u>
 - Invited Talk
   - Data Science Lab, Hanyang University, Seoul, Korea, 2025.11
 - Conference Presentation
+  - KDD 2026, Jeju, Korea, 2026.8
   - CIKM 2025, Seoul, Korea, 2025.11
   - ICASSP 2025, Hyderabad, India, 2025.04 (Virtual)
 - Poster Presentation
@@ -338,6 +330,7 @@ Shuo Yang, Xinran Zheng, Jinfeng Xu, Jinze Li, Danyang Song, **<u>Zheyu Chen</u>
 
 # 🎓 Educations
 
+- *2026.09 - Present*, The Hong Kong Polytechnic University. **PhD student** at *ASTAPLE Lab*
 - *2025.09 - Present*, Beijing Institute of Technology. **PhD student** at *Computer Science*
 - *2025.04 - 2025.08*, Hong Kong Polytechnic University. **Research Assistant** at *ASTAPLE Lab*
 - *2023.09 - 2025.03*, Hong Kong Polytechnic University. **Master of Science** Major in *Electronic and Information Engineering* 
