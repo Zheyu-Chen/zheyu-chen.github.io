@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, my name is Zheyu Chen. Currently, I am a PhD student at Beijing Institute of Technology, and my the supervisor is Prof. Kaiyu Feng. I recently completed my Master's degree in Electronic and Information Engineering at The Hong Kong Polytechnic University.
+I am Chen Zheyu. Currently, I am a Dual PhD student at Beijing Institute of Technilogy AND The Hong Kong Polytechnic University, and my the supervisors are Prof. Kaiyu Feng (BIT) and Prof. Haibo Hu (PolyU@ASTAPLE Lab).
 
-My primary research interests lie in Data Mining and AI4DB. 
+My primary research interests lie in AI4Database, Graph Learning, and Robusterness.
 
-Feel free to contact me via [Email](mailto:zheyu.chen@connect.polyu.hk) or [WeChat](images/WeChat.jpg). You can download my CV [here](Resume-ChenZheyu.pdf).
+Feel free to contact me via [Email](mailto:zheyu.chen01@gamil.com) or [WeChat](images/WeChat.jpg).
 
 [//]: # ([中文版链接]&#40;about_zh.md&#41;)
 [//]: # (I have published more than 5 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=Tj6-6lYAAAAJ'>google scholar citations <strong><span id='total_cit'>20+</span></strong></a>.)
